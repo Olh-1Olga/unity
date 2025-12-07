@@ -1,0 +1,16 @@
+using UnityEngine;
+
+public class Crickets : MonoBehaviour
+
+{
+    //Вывод в консоль "crickets"
+    void Start()
+    {
+        print("crickets");
+    }
+    void Update()
+    {
+        print("crickets");
+    }
+
+}
