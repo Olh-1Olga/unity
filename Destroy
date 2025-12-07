@@ -1,0 +1,12 @@
+using UnityEngine;
+
+public class Destroy : MonoBehaviour
+
+{
+    //Удаление объекта
+    void Start()
+    {
+        Destroy(gameObject);
+    }
+}
+
